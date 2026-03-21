@@ -11,7 +11,7 @@
     "frequency": "always",
     "actionText": "Nonton Sekarang",
     "actionLink": "https://share-adixtream.gokilmichat.workers.dev/zp1gkh",
-    "isActive": true
+    "isActive": false
   },
   {
     "id": "popup_1773688397148",
@@ -47,6 +47,7 @@
     "frequency": "once_ever",
     "actionText": "tonton sekarang",
     "actionLink": "https://share-adixtream.gokilmichat.workers.dev/1v72cm",
-    "isActive": false
+    "isActive": false,
+    "targetPlatform": "hp"
   }
 ]
