@@ -11,7 +11,7 @@
     "frequency": "always",
     "actionText": "Nonton Sekarang",
     "actionLink": "https://share-adixtream.gokilmichat.workers.dev/zp1gkh",
-    "isActive": true,
+    "isActive": false,
     "hasTrailer": true,
     "trailerUrl": "https://raw.githubusercontent.com/michat88/Zaneta/main/trailers/trailer_1775085819257.mp4"
   },
